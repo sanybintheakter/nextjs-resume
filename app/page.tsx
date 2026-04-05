@@ -12,7 +12,7 @@ export default function Home() {
       <section className="border-t pt-4 mt-4">
         <h2 className="font-semibold text-lg uppercase tracking-wide">Summary</h2>
         <p className="text-gray-700 mt-2">
-          Short summary about you.
+          Business Analytics & Information Systems student with strong skills in Excel, SQL and data driven problem solving. Experienced in analyzing business performance, building KPI dashboards and improving workflows through data insights. Passionate about using analytics to enhance systems, operations and decision making.
         </p>
       </section>
 
