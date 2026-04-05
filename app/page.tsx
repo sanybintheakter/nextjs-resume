@@ -19,7 +19,8 @@ export default function Home() {
       {/* Education */}
       <section className="border-t pt-4 mt-4">
         <h2 className="font-semibold text-lg uppercase tracking-wide">Education</h2>
-        <p className="mt-2">University of South Florida | Business Analytics and Information Systems </p>
+        <p className="text-gray-700 mt-2"> University of South Florida | Business Analytics and Information Systems 
+        </p>
       </section>
 
       {/* Experience */}
