@@ -5,6 +5,7 @@ This project is a resume webpage built using Next.js and Tailwind CSS. It showca
 
 ## How to Run
 npm install
+
 npm run dev
 
 Then open:
