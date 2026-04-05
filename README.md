@@ -8,9 +8,9 @@ npm install
 npm run dev  
 
 ## Features
-- Resume sections (Summary, Education, Experience, Skills)
-- Styled using Tailwind CSS
-- Built using Next.js App Router
+ Resume sections (Summary, Education, Experience, Skills)
+ Styled using Tailwind CSS
+ Built using Next.js App Router
 
 ## Author
 Sany Binthe Akter
