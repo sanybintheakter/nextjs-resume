@@ -20,7 +20,15 @@ return (
     {/* Education */}
     <section className="border-t pt-4 mt-4">
     <h2 className="font-semibold text-lg uppercase tracking-wide">Education</h2>
-    <p className="text-gray-700 mt-2"> University of South Florida | Business Analytics and Information Systems 
+    <p className="mt-2 text-gray-700">
+    <strong>University of South Florida</strong><br />
+    Bachelor of Science in Business Analytics & Information Systems<br />
+    Expected Graduation: Fall 2025
+    </p>
+
+    <p className="mt-2 text-gray-700">
+    <strong>Hillsborough Community College</strong><br />
+    Associate of Arts<br />
     </p>
     </section>
 
