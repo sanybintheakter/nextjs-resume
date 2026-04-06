@@ -23,7 +23,7 @@ return (
     <p className="mt-2 text-gray-700">
     <strong>University of South Florida</strong><br />
     Bachelor of Science in Business Analytics & Information Systems<br />
-    Expected Graduation: Fall 2025
+    Expected Graduation: Fall 2026
     </p>
 
     <p className="mt-2 text-gray-700">
