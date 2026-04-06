@@ -1,77 +1,77 @@
-export default function Home() {
-  return (
+export default function Home() 
+{
+return (
     <main className="max-w-3xl mx-auto px-6 py-10">
 
-      {/* Header */}
-      <header className="bg-gray-900 text-white px-6 py-6 rounded mb-6">
-        <h1 className="text-3xl font-bold">Sany Binthe Akter</h1>
-        <p className="text-gray-300">sakter@usf.edu | +1 813 370 7133</p>
-      </header>
+    {/* Header */}
+    <header className="bg-gray-900 text-white px-6 py-6 rounded mb-6">
+    <h1 className="text-3xl font-bold">Sany Binthe Akter</h1>
+    <p className="text-gray-300">sakter@usf.edu | +1 813 370 7133</p>
+    </header>
 
-      {/* Summary */}
-      <section className="border-t pt-4 mt-4">
-        <h2 className="font-semibold text-lg uppercase tracking-wide">Summary</h2>
-        <p className="text-gray-700 mt-2">
-          Business Analytics & Information Systems student with strong skills in Excel, SQL and data driven problem solving. Experienced in analyzing business performance, building KPI dashboards and improving workflows through data insights. Passionate about using analytics to enhance systems, operations and decision making.
-        </p>
-      </section>
+    {/* Summary */}
+    <section className="border-t pt-4 mt-4">
+    <h2 className="font-semibold text-lg uppercase tracking-wide">Summary</h2>
+    <p className="text-gray-700 mt-2">
+    Business Analytics & Information Systems student with strong skills in Excel, SQL and data driven problem solving. Experienced in analyzing business performance, building KPI dashboards and improving workflows through data insights. Passionate about using analytics to enhance systems, operations and decision making.
+    </p>
+    </section>
 
-      {/* Education */}
-      <section className="border-t pt-4 mt-4">
-        <h2 className="font-semibold text-lg uppercase tracking-wide">Education</h2>
-        <p className="text-gray-700 mt-2"> University of South Florida | Business Analytics and Information Systems 
-        </p>
-      </section>
+    {/* Education */}
+    <section className="border-t pt-4 mt-4">
+    <h2 className="font-semibold text-lg uppercase tracking-wide">Education</h2>
+    <p className="text-gray-700 mt-2"> University of South Florida | Business Analytics and Information Systems 
+    </p>
+    </section>
 
-      {/* Experience */}
-      <section className="border-t pt-4 mt-4">
-  <h2 className="font-semibold text-lg uppercase tracking-wide">Experience</h2>
+    {/* Experience */}
+    <section className="border-t pt-4 mt-4">
+    <h2 className="font-semibold text-lg uppercase tracking-wide">Experience</h2>
 
-  {/* Argos Dining */}
-  <div className="mt-4">
+    {/* Argos Dining */}
+    <div className="mt-4">
     <h3 className="font-medium">Student Worker – Dining Operations</h3>
     <p className="text-sm text-gray-500">USF (Compass Group) | Sept 2025 – Present</p>
     <ul className="list-disc ml-5 mt-2 text-gray-700 space-y-1">
-      <li>Supported inventory organization and high volume service workflows.</li>
-      <li>Identified inefficiencies and contributed to process improvements.</li>
-      <li>Maintained accuracy and consistency in operational processes.</li>
+    <li>Supported inventory organization and high volume service workflows.</li>
+    <li>Identified inefficiencies and contributed to process improvements.</li>
+    <li>Maintained accuracy and consistency in operational processes.</li>
     </ul>
-  </div>
+    </div>
 
-  {/* Barnes & Noble */}
-  <div className="mt-4">
+    {/* Barnes & Noble */}
+    <div className="mt-4">
     <h3 className="font-medium">Bookseller – Barnes & Noble</h3>
     <p className="text-sm text-gray-500">Tampa, FL | Aug 2022 – Dec 2024</p>
     <ul className="list-disc ml-5 mt-2 text-gray-700 space-y-1">
-      <li>Delivered customer service in a fast paced retail environment.</li>
-      <li>Managed transactions and maintained organized inventory systems.</li>
-      <li>Handled incoming shipments and stock organization.</li>
+    <li>Delivered customer service in a fast paced retail environment.</li>
+    <li>Managed transactions and maintained organized inventory systems.</li>
+    <li>Handled incoming shipments and stock organization.</li>
     </ul>
-  </div>
+    </div>
 
-  {/* Business */}
-  <div className="mt-4">
+    {/* Business */}
+    <div className="mt-4">
     <h3 className="font-medium">Business Entrepreneur – El’carino</h3>
     <p className="text-sm text-gray-500">Dhaka, Bangladesh | Aug 2020 – Dec 2021</p>
     <ul className="list-disc ml-5 mt-2 text-gray-700 space-y-1">
-      <li>Managed budgets and forecasted financial performance.</li>
-      <li>Oversaw daily operations and improved workflow efficiency.</li>
-      <li>Applied data driven decision making to support business growth.</li>
+    <li>Managed budgets and forecasted financial performance.</li>
+    <li>Oversaw daily operations and improved workflow efficiency.</li>
+    <li>Applied data driven decision making to support business growth.</li>
     </ul>
-  </div>
-</section>
+    </div>
+    </section>
 
-      {/* Skills */}
-      <section className="border-t pt-4 mt-4">
-  <h2 className="font-semibold text-lg uppercase tracking-wide">Skills</h2>
+    {/* Skills */}
+    <section className="border-t pt-4 mt-4">
+    <h2 className="font-semibold text-lg uppercase tracking-wide">Skills</h2>
 
-  <p className="mt-2 text-gray-700">
+    <p className="mt-2 text-gray-700">
     <strong>Programming & Tools:</strong> Python, SQL, Excel, Tableau, GitHub <br />
     <strong>Web Technologies:</strong> HTML, CSS, JavaScript <br />
     <strong>Analytics & Business:</strong> Data Analysis, KPI Tracking, Process Improvement
-  </p>
-</section>
-
+    </p>
+    </section>
     </main>
-  );
+    );
 }
